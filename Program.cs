@@ -24,9 +24,9 @@ namespace test
 {
     class MainClass
     {
-        public static void Main (string[] args)
+        public static void Main(string[] args)
         {
-			Console.WriteLine (Math.Pow(2, 32-1));
+            Console.WriteLine(Math.Pow(2, 32 - 1));
         }
     }
 }
