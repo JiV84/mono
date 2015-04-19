@@ -1,0 +1,5 @@
+/home/juan/Escritorio/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/juan/Escritorio/test/bin/Debug/test.exe.mdb
+/home/juan/Escritorio/test/bin/Debug/test.exe
+/home/juan/Escritorio/test/obj/x86/Debug/test.exe
+/home/juan/Escritorio/test/obj/x86/Debug/test.exe.mdb
