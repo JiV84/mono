@@ -26,7 +26,9 @@ namespace test
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(Math.Pow(2, 32 - 1).ToString("00"));
+            //chorrada
+            Console.WriteLine("El numero entero con signo mas alto es:");
+            Console.WriteLine("".PadLeft(5,'*')+ " "+Math.Pow(2, 32 - 1).ToString("0,0")+ " ".PadRight(5, '*'));
         }
     }
 }
