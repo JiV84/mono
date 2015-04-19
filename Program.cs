@@ -26,7 +26,7 @@ namespace test
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(Math.Pow(2, 32 - 1));
+            Console.WriteLine(Math.Pow(2, 32 - 1).ToString("00"));
         }
     }
 }
